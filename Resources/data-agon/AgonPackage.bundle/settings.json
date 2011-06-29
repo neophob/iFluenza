@@ -1,0 +1,110 @@
+{
+    "leaderboards": [
+        {
+            "allow_worse": false, 
+            "sort_descending": true, 
+            "name": "Classic Scores", 
+            "id": 0, 
+            "path": "", 
+            "order": 0
+        }, 
+        {
+            "allow_worse": true, 
+            "sort_descending": true, 
+            "name": "Latest Scores", 
+            "id": 1, 
+            "path": "", 
+            "order": 1
+        }, 
+        {
+            "allow_worse": false, 
+            "sort_descending": true, 
+            "name": "Best Failed Scores", 
+            "id": 2, 
+            "path": "", 
+            "order": 2
+        }
+    ], 
+    "application": {
+        "twitter_hash_tag": "", 
+        "server": "http:\/\/db.agon-online.com", 
+        "id": "CF005B5F45B0F3BCD194516E10887F8CB8D4A82E", 
+        "name": "iFluenza"
+    }, 
+    "awards": [
+        {
+            "description": "Phew, you did it!", 
+            "clue": "Just Play", 
+            "secret": true, 
+            "score": 5, 
+            "order": 0, 
+            "id": 0, 
+            "name": "Play The Game"
+        }, 
+        {
+            "description": "Not bad!", 
+            "clue": "Play more...", 
+            "secret": true, 
+            "score": 5, 
+            "order": 1, 
+            "id": 1, 
+            "name": "Reach Level 5"
+        }, 
+        {
+            "description": "Play", 
+            "clue": "Play harder", 
+            "secret": true, 
+            "score": 10, 
+            "order": 5, 
+            "id": 4, 
+            "name": "Reach Level 10"
+        }, 
+        {
+            "description": "You know it...", 
+            "clue": "Play better", 
+            "secret": true, 
+            "score": 20, 
+            "order": 7, 
+            "id": 5, 
+            "name": "Reach Level 15"
+        }, 
+        {
+            "description": "You are getting close", 
+            "clue": "Play faster", 
+            "secret": true, 
+            "score": 40, 
+            "order": 9, 
+            "id": 6, 
+            "name": "Reach Level 20"
+        }, 
+        {
+            "description": "1, 2, 3", 
+            "clue": "Count to Three", 
+            "secret": true, 
+            "score": 5, 
+            "order": 20, 
+            "id": 3, 
+            "name": "Count to Three"
+        }, 
+        {
+            "description": "Simple stuff, eh?", 
+            "clue": "n\/a", 
+            "secret": true, 
+            "score": 5, 
+            "order": 22, 
+            "id": 8, 
+            "name": "Mystery Award"
+        }, 
+        {
+            "description": "Congratulations!", 
+            "clue": "Harder, Better, Faster, Stronger", 
+            "secret": true, 
+            "score": 50, 
+            "order": 50, 
+            "id": 7, 
+            "name": "Finish The Game"
+        }
+    ], 
+    "blobs": [], 
+    "leaderboard_folders": []
+}
